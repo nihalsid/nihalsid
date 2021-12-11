@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,13 +42,17 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 42 mins        ████████████████████████░   96.06% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 44 mins        ████████████████████████░   98.56% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 46 mins        █████████████████████████   100.0%
 
 ```
 
@@ -65,5 +69,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2021
+ Last Updated on 11/12/2021
 <!--END_SECTION:waka-->　　

@@ -42,14 +42,13 @@ Sunday       37 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   21 mins             █████████████████████████   99.98% 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -66,5 +65,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2022 01:43:45 UTC
+ Last Updated on 22/04/2022 01:47:53 UTC
 <!--END_SECTION:waka-->　　

@@ -1,12 +1,10 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 87 Contributions in the Year 2022
- > 
 > 📦 892.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -67,5 +65,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 01:50:51 UTC
+ Last Updated on 12/05/2022 01:48:50 UTC
 <!--END_SECTION:waka-->　　

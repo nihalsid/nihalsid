@@ -5,6 +5,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 87 Contributions in the Year 2022
+ > 
 > 📦 892.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -65,5 +67,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2022 01:48:50 UTC
+ Last Updated on 13/05/2022 01:51:51 UTC
 <!--END_SECTION:waka-->　　

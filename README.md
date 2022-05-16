@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 87 Contributions in the Year 2022
+> 🏆 88 Contributions in the Year 2022
  > 
 > 📦 892.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 56 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
  > 
@@ -67,5 +67,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2022 01:53:42 UTC
+ Last Updated on 16/05/2022 01:28:40 UTC
 <!--END_SECTION:waka-->　　

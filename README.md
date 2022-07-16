@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -11,9 +11,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 56 Public Repositories 
+> 📜 57 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 20 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -67,5 +67,5 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2022 02:07:12 UTC
+ Last Updated on 16/07/2022 01:54:03 UTC
 <!--END_SECTION:waka-->　　
